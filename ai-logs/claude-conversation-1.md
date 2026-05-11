@@ -6,7 +6,7 @@
 ---
 
 ## Prompt 1
-You are an expert React Native developer. I am building a PREMIUM Water Intake Tracker app called "HydroTrack" for a competition. The app must be WORLD-CLASS quality.
+You are an expert React Native developer. I am building a PREMIUM Water Intake Tracker app called "HydroTrack" . The app must be WORLD-CLASS quality.
 TECH STACK:
 - React Native with Expo (SDK 54)
 - AsyncStorage for data persistence
